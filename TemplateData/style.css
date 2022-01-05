@@ -11,6 +11,19 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
 }
+.unity-desktop h1,
+.unity-desktop h2 {
+  color: white;
+  text-align: center;
+}
+.unity-desktop h1 {
+  font-size: 36px;
+}
+.unity-desktop h2 {
+  font-size: 22px;
+  color: #5e779b;
+  max-width: 730px;
+}
 #unity-container.unity-mobile {
   width: 100%;
   height: 100%;
